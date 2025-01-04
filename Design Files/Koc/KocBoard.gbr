@@ -1,0 +1,21 @@
+G04 DipTrace 5.0.0.1*
+G04 KocBoard.gbr*
+%MOIN*%
+G04 #@! TF.FileFunction,Profile*
+G04 #@! TF.Part,Single*
+%ADD10C,0.004724*%
+%FSLAX26Y26*%
+G04*
+G70*
+G90*
+G75*
+G01*
+G04 BoardOutline*
+%LPD*%
+X-2025000Y775000D2*
+G54D10*
+X75000D1*
+Y-1325000D1*
+X-2025000D1*
+Y775000D1*
+M02*

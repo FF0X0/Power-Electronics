@@ -1,0 +1,2 @@
+.model UF2003 D(Is=1.06n Rs=.06 N=1.75 Cjo=50p M=.45 tt=50n Iave=2 Vpk=200 BV=200 mfg=Multicomp type=silicon)
+

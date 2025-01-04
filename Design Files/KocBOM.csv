@@ -1,0 +1,27 @@
+#;Name;Manufacturer;Quantity
+1;Capacitor, Ceramic;;1
+2;Capacitor, Ceramic;;1
+3;Cap, Electrolytic, 400mil;Torch;1
+4;1N4148;Fairchild Semiconductor;1
+5;Zener;;1
+6;UF2003;Fairchild Semiconductor;1
+7;Power Connection;TE Connectivity;1
+8;Probe;TE Connectivity;2
+9;GND_I;;1
+10;GND;;2
+11;Resistor320;;1
+12;Resistor320;;1
+13;Resistor420;;1
+14;Resistor420;;1
+15;Resistor320;;1
+16;Resistor420;;1
+17;Resistor420;;2
+18;Resistor420;;1
+19;Resistor420;;1
+20;Resistor320;;1
+21;Trimpot;BAOTER;1
+22;Transformer;;1
+23;MC34063A;ON Semiconductor;1
+24;TL431A;ON Semiconductor;1
+25;4N25M;Fairchild Semiconductor;1
+;;;28
